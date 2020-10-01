@@ -1,0 +1,3 @@
+<launch>
+	<node pkg = "enph353_ros_lab" type = "process_image.py" name = "process_image" output = "screen"/>
+</launch>
